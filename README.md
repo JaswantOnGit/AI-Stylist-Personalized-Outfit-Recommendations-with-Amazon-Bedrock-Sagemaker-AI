@@ -147,7 +147,6 @@ The entire backend was provisioned and tested from a SageMaker Jupyter Notebook:
 
 **Jaswant Singh**
 
-- 🎓 Aspiring AI Engineer / AI Automation Specialist
 - 💡 Passionate about building real-world AI systems
 - 🌱 Open to opportunities in AI, Cloud, and Data
 
